@@ -1,5 +1,7 @@
 # Metaport
 
-Web-application Observability Software for teams not techies!
+Application Maintenance (AM) software for teams not techies!
 
-Coming 2024. See more at: https://getmetaport.com/.
+Code is managed on Gitlab.com at https://gitlab.com/dcentrica/metaport/metaport-server.
+
+See more at: https://getmetaport.com/.

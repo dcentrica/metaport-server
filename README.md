@@ -5,7 +5,6 @@
   </picture>
 </div>
 
-[![Pipeline Status](https://gitlab.com/dcentrica/metaport/metaport-server/badges/master/pipeline.svg?style=flat-square)](https://gitlab.com/dcentrica/metaport/metaport-server/-/pipelines)
 [![Latest Release](https://gitlab.com/dcentrica/metaport/metaport-server/-/badges/release.svg?style=flat-square&value_width=80)](https://gitlab.com/dcentrica/metaport/metaport-server/-/releases)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)](README.md)
 [![phpstan](https://img.shields.io/badge/PHPStan-level%206-brightgreen.svg?style=flat-square)](#)
@@ -55,7 +54,7 @@ Metaport is technology agnostic which means your PHP, Node, Python, or .Net apps
 
 <div align="center">
   <p>&nbsp;</p>
-  <img src="docs/img/metaport-ecosystem.png" alt="Metaport Ecosystem" />
+  <img src="./metaport-ecosystem.png" alt="Metaport Ecosystem" />
   <p>&nbsp;</p>
 </div>
 
